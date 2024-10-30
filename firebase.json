@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "public": "dist",
+    "site": "phoneinternship",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+  }
+}
